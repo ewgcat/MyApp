@@ -1,0 +1,1 @@
+include ':app', ':indicatorseekbar', ':PhotoPicker', ':photoview', ':retrofit2'
